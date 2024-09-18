@@ -1,4 +1,4 @@
-# Report on Fake News Detection Using SVM and TF-IDF
+# Fake News Detection Using SVM and TF-IDF
 ## Overview
 This project aims to classify news articles based on their stance relative to a given headline. The classification task involves determining whether the article "agrees," "disagrees," "discusses," or is "unrelated" to the headline. Given the limited size of the dataset, this project uses a Support Vector Machine (SVM) with Term Frequency-Inverse Document Frequency (TF-IDF) vectorization to extract features and perform classification.
 ## Table of Contents
